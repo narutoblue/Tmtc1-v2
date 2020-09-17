@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Tmtc1",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -11,16 +11,16 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
+            "id": "Tmtc1-1.12.2",
+            "name": "Tmtc1 Production Server",
+            "description": "Main Tmtc1 server. Connect to enter the Realm.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "144.91.125.24:25574",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "Tmtc1 Production Server",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
